@@ -17,23 +17,28 @@
     </style>
 
     <title>Hello</title>
-    <script src="includeHTML.js"></script>
+    
 </head>
 
 <body style="margin: 0px">
-    <div include-html="top-bar.html"></div>
+    <div class="top-bar">
+        <img src="img/logo.png" style="width: 32px; height: 32px">
+
+        <div class="top-bar-container">
+            <div class="top-bar-item">근처 오락실 찾기</div>
+            <div class="top-bar-item">오락실 리뷰</div>
+            <div class="top-bar-item">커뮤니티</div>
+            <div class="top-bar-item">정보</div>
+        </div>
+    </div>
 
     <div class="body-background">
-        
+
     </div>
 
     <div class="bottom-bar">
         Maker: Seongho Lee
     </div>
-
-    <script>
-        includeHTML();
-    </script>
 </body>
 
 </html>
