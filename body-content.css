@@ -1,0 +1,12 @@
+.body-content {
+    background-color: white;
+
+    /* width: 100vw; */
+    /* height: 100vh; */
+
+    margin: 0px;
+    padding-top: 80px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 40px;
+}

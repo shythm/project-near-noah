@@ -1,0 +1,7 @@
+.bottom-bar {
+    background-color: rgb(100, 100, 100);
+    color: white;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
