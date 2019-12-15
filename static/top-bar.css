@@ -4,8 +4,6 @@
     display: flex;
     flex-direction: row;
     margin: 24px;
-
-    background-color: white;
 }
 
 .top-bar > .top-bar-container {
@@ -17,5 +15,5 @@
 .top-bar-container > .top-bar-item {
     flex-basis: 2;
     margin-left: 20px;
-
+    
 }
